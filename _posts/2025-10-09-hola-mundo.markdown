@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Hola Mundo
-date:   2025-10-10 16:03:00 +0300
+date:   2025-10-09 16:03:00 +0300
 image:  how-to-plan-a-campaign-trip/Gemini_Generated_Image_k0ogsak0ogsak0og.png
 tags:   [Lifehacks]
 ---
